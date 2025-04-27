@@ -26,7 +26,7 @@ export default function Home() {
             <Link href="/home" className="text-gray-900 hover:underline">Home</Link>
                        
 
-            <a href="#browse" className="text-gray-900 hover:underline">
+            <a href="/home" className="text-gray-900 hover:underline">
               About
             </a>
                         
